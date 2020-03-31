@@ -1,6 +1,5 @@
  Volume in drive C has no label.
  Volume Serial Number is A6CF-06DC
-
  Directory of C:\Users\Gerald\Desktop\MyProject
 
 2020/03/31  16:17    <DIR>          .
